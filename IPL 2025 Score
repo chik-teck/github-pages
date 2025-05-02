@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL 2025 Live Score, Schedule & Point Table</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@tailwindcss/browser@latest"></script>
+    <style>
+        .table-auto {
+            width: 100%;
+        }
+        .text-left {
+            text-align: left;
+        }
+        .bg-blue-500 {
+            background-color: #3b82f6; /* Tailwind's blue-500 */
+        }
+        .text-white {
+            color: #ffffff;        /* Tailwind's text-white */
+        }
+        .px-4 {
+            padding-left: 1rem;      /* Tailwind's px-4 */
+            padding-right: 1rem;     /* Tailwind's px-4 */
+        }
+        .py-2 {
+            padding-top: 0.5rem;    /* Tailwind's py-2 */
+            padding-bottom: 0.5rem; /* Tailwind's py-2 */
+        }
+        .border {
+            border-width: 1px;      /* Tailwind's border */
+            border-color: #e5e7eb;  /* Tailwind's border-gray-200 */
+        }
+        .font-semibold {
+            font-weight: 600;       /* Tailwind's font-semibold */
+        }
+        .text-center{
+            text-align: center;
+        }
+
+        .bg-gray-100{
+            background-color: #f3f4f6; /* Tailwind's bg-gray-100 */
+        }
+
+        .rounded-md{
+          border-radius: 0.375rem; /* Tailwind's rounded-md */
+        }
+        .shadow-md {
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Tailwind's shadow-md */
+        }
+
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="container mx-auto mt-8 p-4">
+        <h1 class="text-3xl font-semibold text-blue-500 text-center mb-6">IPL 2025 Live Score, Schedule & Point Table</h1>
+
+        <div class="live-score bg-white rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-500 mb-4">Live Score</h2>
+            <p class="text-lg"><strong>Match in Progress:</strong> Gujarat Titans vs Sunrisers Hyderabad</p>
+            <p class="text-gray-700"><strong>Venue:</strong> Narendra Modi Stadium, Ahmedabad, India</p>
+            <p class="text-gray-700"><strong>Time:</strong> Friday, May 2, 2025, 08:00 PM +06</p>
+             <p>Get live updates <a href="https://www.iplt20.com/" target="_blank" class = "text-blue-600 hover:underline">here</a>.</p>
+        </div>
+
+
+
+        <div class="schedule bg-white rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-500 mb-4">Schedule</h2>
+            <table class="schedule-table table-auto rounded-md">
+                <thead class="bg-blue-500 text-white">
+                    <tr>
+                        <th class="px-4 py-2 text-left">Match</th>
+                        <th class="px-4 py-2 text-left">Date</th>
+                        <th class="px-4 py-2 text-left">Time (Chittagong)</th>
+                        <th class="px-4 py-2 text-left">Teams</th>
+                        <th class="px-4 py-2 text-left">Venue</th>
+                        <th class="px-4 py-2 text-left">Status</th>
+                    </tr>
+                </thead>
+                <tbody class="bg-gray-100">
+                    <tr>
+                        <td class="px-4 py-2 border">Match 51</td>
+                        <td class="px-4 py-2 border">Friday, May 2, 2025</td>
+                        <td class="px-4 py-2 border">08:00 PM</td>
+                        <td class="px-4 py-2 border">Gujarat Titans vs Sunrisers Hyderabad</td>
+                        <td class="px-4 py-2 border">Narendra Modi Stadium, Ahmedabad</td>
+                        <td class="px-4 py-2 border text-green-600 font-semibold">In Progress</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border">Match 50</td>
+                        <td class="px-4 py-2 border">Thursday, May 1, 2025</td>
+                        <td class="px-4 py-2 border">08:00 PM</td>
+                        <td class="px-4 py-2 border">Rajasthan Royals vs Mumbai Indians</td>
+                        <td class="px-4 py-2 border">Sawai Mansingh Stadium, Jaipur</td>
+                        <td class="px-4 py-2 border text-gray-600">Completed</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border">Match 49</td>
+                        <td class="px-4 py-2 border">Wednesday, April 30, 2025</td>
+                        <td class="px-4 py-2 border">08:00 PM</td>
+                        <td class="px-4 py-2 border">Chennai Super Kings vs Punjab Kings</td>
+                        <td class="px-4 py-2 border">M. A. Chidambaram Stadium, Chennai</td>
+                        <td class="px-4 py-2 border text-gray-600">Completed</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border">Match 52</td>
+                        <td class="px-4 py-2 border">Saturday, May 3, 2025</td>
+                        <td class="px-4 py-2 border">08:00 PM</td>
+                        <td class="px-4 py-2 border">Royal Challengers Bengaluru vs Chennai Super Kings</td>
+                        <td class="px-4 py-2 border">M. Chinnaswamy Stadium, Bengaluru</td>
+                        <td class="px-4 py-2 border">Upcoming</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border">Match 53</td>
+                        <td class="px-4 py-2 border">Sunday, May 4, 2025</td>
+                        <td class="px-4 py-2 border">04:00 PM</td>
+                        <td class="px-4 py-2 border">Kolkata Knight Riders vs Rajasthan Royals</td>
+                        <td class="px-4 py-2 border">Eden Gardens, Kolkata</td>
+                        <td class="px-4 py-2 border">Upcoming</td>
+                    </tr>
+                    <tr>
+                         <td class="px-4 py-2 border">Match 54</td>
+                        <td class="px-4 py-2 border">Sunday, May 4, 2025</td>
+                        <td class="px-4 py-2 border">08:00 PM</td>
+                        <td class="px-4 py-2 border">Punjab Kings vs Lucknow Super Giants</td>
+                        <td class="px-4 py-2 border">Himachal Pradesh Cricket Association Stadium, Cheliyan</td>
+                        <td class="px-4 py-2 border">Upcoming</td>
+                    </tr>
+                    </tbody>
+            </table>
+             <p>For the full schedule, please visit <a href="https://www.iplt20.com/schedule" target="_blank" class = "text-blue-600 hover:underline">the official IPL website</a>.</p>
+        </div>
+
+        <div class="points-table bg-white rounded-md shadow-md p-6">
+            <h2 class="text-2xl font-semibold text-blue-500 mb-4">Points Table</h2>
+            <table class="table-auto rounded-md">
+                <thead class="bg-blue-500 text-white">
+                    <tr>
+                        <th class="px-4 py-2 text-left">Position</th>
+                        <th class="px-4 py-2 text-left">Team</th>
+                        <th class="px-4 py-2 text-left">Played</th>
+                        <th class="px-4 py-2 text-left">Won</th>
+                        <th class="px-4 py-2 text-left">Lost</th>
+                        <th class="px-4 py-2 text-left">NR</th>
+                        <th class="px-4 py-2 text-left">Points</th>
+                        <th class="px-4 py-2 text-left">NRR</th>
+                    </tr>
+                </thead>
+                <tbody class="bg-gray-100">
+                    <tr>
+                        <td class="px-4 py-2 border text-center">1</td>
+                        <td class="px-4 py-2 border">Mumbai Indians</td>
+                        <td class="px-4 py-2 border text-center">11</td>
+                        <td class="px-4 py-2 border text-center">7</td>
+                        <td class="px-4 py-2 border text-center">4</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">14</td>
+                        <td class="px-4 py-2 border text-center">+1.274</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">2</td>
+                         <td class="px-4 py-2 border">Royal Challengers Bengaluru</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">7</td>
+                        <td class="px-4 py-2 border text-center">3</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">14</td>
+                        <td class="px-4 py-2 border text-center">+0.521</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">3</td>
+                        <td class="px-4 py-2 border">Punjab Kings</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border text-center">3</td>
+                        <td class="px-4 py-2 border text-center">1</td>
+                        <td class="px-4 py-2 border text-center">13</td>
+                        <td class="px-4 py-2 border text-center">+0.199</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">4</td>
+                        <td class="px-4 py-2 border">Gujarat Titans</td>
+                        <td class="px-4 py-2 border text-center">9</td>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border text-center">3</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">12</td>
+                        <td class="px-4 py-2 border text-center">+0.748</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">5</td>
+                        <td class="px-4 py-2 border">Delhi Capitals</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border text-center">4</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">12</td>
+                        <td class="px-4 py-2 border text-center">+0.362</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border">Lucknow Super Giants</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">5</td>
+                        <td class="px-4 py-2 border text-center">5</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">-0.325</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">7</td>
+                        <td class="px-4 py-2 border">Kolkata Knight Riders</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">4</td>
+                        <td class="px-4 py-2 border text-center">5</td>
+                        <td class="px-4 py-2 border text-center">1</td>
+                        <td class="px-4 py-2 border text-center">9</td>
+                        <td class="px-4 py-2 border text-center">+0.271</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">8</td>
+                        <td class="px-4 py-2 border">Rajasthan Royals</td>
+                        <td class="px-4 py-2 border text-center">11</td>
+                        <td class="px-4 py-2 border text-center">3</td>
+                        <td class="px-4 py-2 border text-center">8</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border text-center">-0.780</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">9</td>
+                        <td class="px-4 py-2 border">Sunrisers Hyderabad</td>
+                        <td class="px-4 py-2 border text-center">9</td>
+                        <td class="px-4 py-2 border text-center">3</td>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">6</td>
+                        <td class="px-4 py-2 border text-center">-1.103</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border">Chennai Super Kings</td>
+                        <td class="px-4 py-2 border text-center">10</td>
+                        <td class="px-4 py-2 border text-center">2</td>
+                        <td class="px-4 py-2 border text-center">8</td>
+                        <td class="px-4 py-2 border text-center">0</td>
+                        <td class="px-4 py-2 border text-center">4</td>
+                        <td class="px-4 py-2 border text-center">-1.211</td>
+                    </tr>
+                    </tbody>
+            </table>
+             <p>For the most up-to-date points table, please visit <a href="https://www.iplt20.com/points-table" target="_blank" class = "text-blue-600 hover:underline">the official IPL website</a>.</p>
+        </div>
+    </div>
+</body>
+</html>
